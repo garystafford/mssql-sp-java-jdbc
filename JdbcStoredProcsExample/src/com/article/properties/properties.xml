@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Configuration - Development</comment>
+    <!-- HRO SQL Server JDBC Connection Parameters -->
+    <entry key="connector.server">localhost</entry>
+    <entry key="connector.instance">DEVELOPMENT</entry>
+    <entry key="connector.database">AdventureWorks</entry>
+    <entry key="connector.user">aw_dev</entry>
+    <entry key="connector.password">aw_dev123</entry>
+</properties>
